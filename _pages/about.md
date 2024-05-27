@@ -9,6 +9,8 @@ redirect_from:
 
 
 I am a undergraduate student in [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Currently I'm learning Anomaly Samples Generation Based on Diffusion Models and Object Detection. 
+I am very fortunate to be advised by [Prof. Yu Zhou](https://faculty.hust.edu.cn/zhouyu9/zh_CN/index.htm) of HUST Robotics Vision Team from [School of Electronic Information and Communications](http://ei.hust.edu.cn/#), Huazhong University of Science and Technology.
+
 
 Education
 ======
