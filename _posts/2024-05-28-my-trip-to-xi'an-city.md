@@ -1,7 +1,7 @@
 ---
-title: 'My Trip to Xi'an City'
-date: 2024-05-28
-permalink: /posts/2024/05/my-trip-to-xi'an-city/
+title: 'Blog Post number 3'
+date: 2014-08-14
+permalink: /posts/2014/08/blog-post-3/
 tags:
   - cool posts
   - category1
