@@ -1,11 +1,11 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: 'My Trip to Xi'an City'
+date: 2024-05-28
+permalink: /posts/2024/05/my-trip-to-xi'an-city/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - travel
+  - 
+  - 
 ---
 
 今年五一，笔者和室友前往西安，进行了一次沉浸式特种兵旅游，行程总共两天。在考完5月12日的随机过程后，我一边整理相册，一边写下这篇文章，留存我在西安的记忆。因为写这篇文章的时候思绪完全跟着照片走，所以这篇文章充斥着大量（精美）的照片，文字可以理解为对照片的解读。
