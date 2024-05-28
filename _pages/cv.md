@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 Sep. - 2026 Jun.(expected):
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  B.E. in Electronic Information Engineering
 
-Publications
+  Huazhong University of Science & Technology
+
+
+Research & Working experiences
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
+
+* 2023 Nov. - Present.: 
+  * Research Intern
+  * Huazhong Univeristy of Science and Technology
+  * Content: 
+    * Generative Model for Anomaly Detection 
+    * Object Detection 
+  * Supervisor: [Prof. Yu Zhou](https://faculty.hust.edu.cn/zhouyu9/zh_CN/index.htm)
+
+Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+  * Scholarship for Academic Excellence
+  * Scholarship for Self-improvement
+  * Scholarship for Social Welfare
+  * Outstanding Communist Youth League Cadre
+  * Second Prize in NECCS
+  * Honorable Mention in 2024 MCM
+
+Social Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
+
+**Student Union**
+
+* 2022 Sep. - 2022.Jun: 
+  * **Member of Rights and Academic Department**
+  * Huazhong Univeristy of Science and Technology
+  * Service:
+    * Responsible for the implementation and practice of activities
+* 2023 Sep. - 2023.Jun: 
+  * **Chairman of Rights and Academic Department**
+  * Huazhong Univeristy of Science and Technology
+  * Service:
+    * Leading the Rights and Academic Department, responsible for the operation of the Student Union
