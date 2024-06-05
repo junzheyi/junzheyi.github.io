@@ -52,12 +52,12 @@ Social Service
 **Student Union**
 
 * 2022 Sep. - 2022.Jun: 
-  * **Member of Rights and Academic Department**
+  * **Member** of Rights and Academic Department
   * Huazhong Univeristy of Science and Technology
   * Service:
     * Responsible for the implementation and practice of activities
 * 2023 Sep. - 2023.Jun: 
-  * **Chairman of Rights and Academic Department**
+  * **Chairman** of Rights and Academic Department
   * Huazhong Univeristy of Science and Technology
   * Service:
     * Leading the Rights and Academic Department, responsible for the operation of the Student Union
