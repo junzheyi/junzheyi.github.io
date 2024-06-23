@@ -33,7 +33,6 @@ Research & Working experiences
   * Huazhong Univeristy of Science and Technology
   * Content: 
     * Generative Model for Anomaly Detection 
-    * Object Detection 
   * Supervisor: [Prof. Yu Zhou](https://faculty.hust.edu.cn/zhouyu9/zh_CN/index.htm)
 
 Honors
@@ -41,11 +40,11 @@ Honors
   * Scholarship for Academic Excellence
   * Scholarship for Self-improvement
   * Scholarship for Social Welfare
-  * Outstanding Communist Youth League Cadre
+  * Outstanding Student Officier
   * Second Prize in NECCS
   * Honorable Mention in 2024 MCM
 
-Social Service
+Misc
 ======
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
