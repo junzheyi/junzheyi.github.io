@@ -41,6 +41,13 @@ I am very fortunate to be advised by [Prof. Yu Zhou](https://github.com/zhouyu-h
 
 # 🎖 Honors and Awards
 
+  * Scholarship for Academic Excellence
+  * Scholarship for Self-improvement
+  * Scholarship for Social Welfare
+  * Outstanding Student Officier
+  * Second Prize in NECCS
+  * Honorable Mention in 2024 MCM
+  
 # 📖 Educations
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
