@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a undergraduate student in [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Currently I'm learning Anomaly Samples Generation Based on Diffusion Models and Object Detection. 
-I am very fortunate to be advised by [Prof. Yu Zhou](https://github.com/zhouyu-hust) of HUST Robotics Vision Team from [School of Electronic Information and Communications](http://ei.hust.edu.cn/#), Huazhong University of Science and Technology.
+I am very fortunate to be advised by [Prof. Yu Zhou](https://github.com/zhouyu-hust) of HUST SLOW Lab from [School of Electronic Information and Communications](http://ei.hust.edu.cn/#), Huazhong University of Science and Technology.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -55,7 +55,7 @@ I am very fortunate to be advised by [Prof. Yu Zhou](https://github.com/zhouyu-h
 
   B.E. in Electronic Information Engineering
 
-  Huazhong University of Science & Technology
+  Huazhong University of Science and Technology
 
 # 😊 Misc
 
