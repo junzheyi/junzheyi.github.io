@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am a undergraduate student in [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Currently I'm learning Anomaly Samples Generation Based on Diffusion Models and Object Detection. 
+I am very fortunate to be advised by [Prof. Yu Zhou](https://faculty.hust.edu.cn/zhouyu9/zh_CN/index.htm) of HUST Robotics Vision Team from [School of Electronic Information and Communications](http://ei.hust.edu.cn/#), Huazhong University of Science and Technology.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -40,9 +42,32 @@ redirect_from:
 # 🎖 Honors and Awards
 
 # 📖 Educations
+<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
+* 2022 Sep. - 2026 Jun.(expected):
+
+  B.E. in Electronic Information Engineering
+
+  Huazhong University of Science & Technology
+<!-- 
 
 # 💬 Invited Talks
 
 
-# 💻 Internships
+# 💻 Internships -->
+# :smile: Misc
+
+<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
+
+**Student Union**
+
+* 2022 Sep. - 2022.Jun: 
+  * **Member** of Rights and Academic Department
+  * Huazhong Univeristy of Science and Technology
+  * Service:
+    * Responsible for the implementation and practice of activities
+* 2023 Sep. - 2023.Jun: 
+  * **Chairman** of Rights and Academic Department
+  * Huazhong Univeristy of Science and Technology
+  * Service:
+    * Leading the Rights and Academic Department, responsible for the operation of the Student Union
