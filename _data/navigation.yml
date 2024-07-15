@@ -15,9 +15,9 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Posts"
-    url: "/#-posts"
-    
+  - title: "Blog Posts"
+    url: "/year-archive/"
+
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
