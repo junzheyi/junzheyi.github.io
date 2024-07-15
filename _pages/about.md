@@ -55,7 +55,7 @@ I am very fortunate to be advised by [Prof. Yu Zhou](https://faculty.hust.edu.cn
 
 
 # 💻 Internships -->
-# :smile: Misc
+# 😊 Misc
 
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
