@@ -47,21 +47,16 @@ I am very fortunate to be advised by [Prof. Yu Zhou](https://github.com/zhouyu-h
   * Outstanding Student Officier
   * Second Prize in NECCS
   * Honorable Mention in 2024 MCM
-  
+
 # 📖 Educations
-<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
+<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"
 
 * 2022 Sep. - 2026 Jun.(expected):
 
   B.E. in Electronic Information Engineering
 
   Huazhong University of Science & Technology
-<!-- 
 
-# 💬 Invited Talks
-
-
-# 💻 Internships -->
 # 😊 Misc
 
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
