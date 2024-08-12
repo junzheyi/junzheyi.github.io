@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Blog Posts"
-    url: "https://junzheyi.notion.site"
+  # - title: "Blog Posts"
+  #   url: "https://junzheyi.notion.site"
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
