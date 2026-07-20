@@ -99,6 +99,10 @@ a:hover {
   vertical-align: middle;
 }
 
+.intro-cell--wide {
+  width: 100%;
+}
+
 .photo-cell {
   padding: 2.5%;
   width: 37%;
@@ -107,7 +111,7 @@ a:hover {
 }
 
 .content-cell {
-  padding: 16px;
+  padding: 20px;
   width: 100%;
   vertical-align: middle;
 }
@@ -119,11 +123,12 @@ a:hover {
 }
 
 .footer-cell {
-  padding: 16px;
+  padding: 20px;
   width: 100%;
   text-align: right;
   color: #777;
-  font-size: 12px;
+  font-size: 13px;
+  line-height: 1.45;
 }
 
 body,
@@ -133,24 +138,25 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
+  line-height: 1.55;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 h2 {
   margin: 0;
   font-weight: normal;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 24px;
 }
 
 .papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
 }
 
